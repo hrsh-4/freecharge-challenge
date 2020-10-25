@@ -1,9 +1,13 @@
-<h1>Instructions to run app</h1>
-<h3>Install dependencies</h3>
+<h1>Freecharge Frontend Challenge</h1>
+
+
+<h2>Instructions to run app</h2>
+
+<h4>Install dependencies</h4>
         <code>npm install</code>
-<h3>Run app</h3>
+<h4>Run app</h4>
         <code>npm start</code>
-<h4>Go to http://localhost:3000/ in the browser</h4>
+<h5>Go to http://localhost:3000/ in the browser</h5>
         
 *Features :*
 
@@ -16,7 +20,6 @@
  <img src= "https://github.com/hrsh-4/freecharge-challenge/blob/Main/screenshots/r1.png" width = 800 height = 450  />
  
  <strong>Image 2 :</strong> 
- 
  
  <img src= "https://github.com/hrsh-4/freecharge-challenge/blob/Main/screenshots/r2.png" width = 800 height = 450  />
  
